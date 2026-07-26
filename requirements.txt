@@ -1,0 +1,6 @@
+flask>=3.0
+opencv-python
+mediapipe
+numpy
+pyttsx3
+tflite-runtime
